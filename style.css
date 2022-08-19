@@ -282,7 +282,7 @@ ul .dropcars:hover .downcars{
     cursor: pointer;
     background-color: aquamarine;
     color: #000000;
-    border: none;
+    border: 2px solid aquamarine;
 }
 .footer .input{
     display: flex;
