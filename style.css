@@ -12,7 +12,7 @@
     height: 100vh;
 }  */
 header{
-    background-color: #5D7792;
+    /* background-color: #5D7792; */
    
 }
 .navbar{
@@ -130,35 +130,35 @@ ul .dropcars:hover .downcars{
   
 /* upper middle section */
 .upper-middle{
-    background-image: url(./images/Background.jpg);
+    background-image: url(./images/Background4.jpg);
     background-repeat: no-repeat;
-    background-size: cover;
-    height: 100vh;
+    background-size: 100% 680px;
+    /* height: 100vh; */
     position: relative;
-    padding: 40px;
-    width: 100%;
+    padding: 90px;
+    /* width: 100%; */
 }
 .upper-middle .p1{
     width: 50%;
-    color: white;
+    color: whitesmoke;
     font-size: 60px;
     font-weight: bold;
-    margin-left: 750px; 
+    margin-left: 650px; 
     margin-bottom: 20px;
 }
 .upper-middle ul li{
-    list-style: auto;
+    list-style-type: none;
 }
 .upper-middle .p2{
-    color: white;
+    color: whitesmoke;
     font-size: 30px;
     font-weight: bold;
-    margin-left: 800px;
+    margin-left: 700px;
     margin-top: 10px;
 }
 .button{
     margin-top: 50px;
-    margin-left: 780px;
+    margin-left: 700px;
 }
 .button li a{
     text-decoration: none;
